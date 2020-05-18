@@ -1,0 +1,65 @@
+{
+  "result": "true",
+  "outstanding": [
+    {
+      "out_id": 4273,
+      "out_name": "ANUSHA - MALABE",
+      "invs": [
+        {
+          "i_date": "2020-02-19",
+          "i_time": "11:32:07",
+          "i_code": "AG/TEST/00844",
+          "invtot": "5300.00",
+          "pay": "0.00",
+          "bal": "5300.00",
+          "cash": [],
+          "cheque": []
+        },
+        {
+          "i_date": "2020-02-18",
+          "i_time": "10:46:23",
+          "i_code": "AG/TEST/T/00842",
+          "invtot": "1000.00",
+          "pay": "450.00",
+          "bal": "550.00",
+          "cash": [
+            {
+              "pm_amount": "100.00",
+              "pm_date": "2020-02-18"
+            },{
+              "pm_amount": "50.00",
+              "pm_date": "2020-02-20"
+            }
+          ],
+          "cheque": [
+            {
+              "pm_amount": "200.00",
+              "pm_date": "2020-02-18",
+              "pc_date": "2020-02-18",
+              "pc_no": "123456",
+              "pc_diposit": "0",
+              "pc_realized": "0",
+              "pc_return": "0",
+              "bb_name": "Akkaraipattu",
+              "bb_code": "590",
+              "b_name": "Bank of Ceylon",
+              "b_code": "7010"
+            }, {
+              "pm_amount": "100.00",
+              "pm_date": "2020-02-20",
+              "pc_date": "2020-02-20",
+              "pc_no": "123457",
+              "pc_diposit": "0",
+              "pc_realized": "0",
+              "pc_return": "0",
+              "bb_name": "Akkaraipattu",
+              "bb_code": "590",
+              "b_name": "Bank of Ceylon",
+              "b_code": "7010"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
