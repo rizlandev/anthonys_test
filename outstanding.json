@@ -39,16 +39,16 @@
               "pay_chq_date": "2020-02-18",
               "pay_chq_no": "123456",
               "pay_chq_status":1
-              "bb_code": "590",
-              "b_code": "7010"
+              "bank_code": "590",
+              "branch_code": "7010"
             }, {
               "pay_amount": "100.00",
               "pay_date": "2020-02-20",
               "pay_chq_date": "2020-02-20",
               "pay_chq_no": "123457",
               "pay_chq_status":1          
-              "bb_code": "590",            
-              "b_code": "7010"
+              "bank_code": "590",
+              "branch_code": "7010"
             }
           ]
         }
