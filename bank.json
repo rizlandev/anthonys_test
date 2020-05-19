@@ -1,51 +1,51 @@
 {
   "banks": [
     {
-      "idbank": "1",
-      "b_name": "Hatton National Bank PLC",
-      "b_code": "7083",
+
+      "bank_name": "Hatton National Bank PLC",
+      "bank_code": "7083",
       "brances": [
         {
-          "idbank_branch": "1",
-          "bb_name": "Aluthkade",
-          "bb_code": "1"
+          
+          "branch_name": "Aluthkade",
+          "branch_code": "1"
         },
         {
-          "idbank_branch": "2",
-          "bb_name": "City Office",
-          "bb_code": "2"
+          
+          "branch_name": "City Office",
+          "branch_code": "2"
         },
         {
-          "idbank_branch": "3",
-          "bb_name": "Head Office",
-          "bb_code": "3"
+        
+          "branch_name": "Head Office",
+          "branch_code": "3"
         }
       ]
     },
     {
-      "idbank": "2",
-      "b_name": "Bank of Ceylon",
-      "b_code": "7010",
+   
+      "bank_name": "Bank of Ceylon",
+      "bank_code": "7010",
       "brances": [
         {
-          "idbank_branch": "199",
-          "bb_name": "City Office",
-          "bb_code": "1"
+         
+          "branch_name": "City Office",
+          "branch_code": "1"
         },
         {
-          "idbank_branch": "200",
-          "bb_name": "Kandy",
-          "bb_code": "2"
+       
+          "branch_name": "Kandy",
+          "branch_code": "2"
         },
         {
-          "idbank_branch": "201",
-          "bb_name": "Galle Fort",
-          "bb_code": "3"
+          
+          "branch_name": "Galle Fort",
+          "branch_code": "3"
         },
         {
-          "idbank_branch": "202",
-          "bb_name": "Pettah",
-          "bb_code": "4"
+         
+          "branch_name": "Pettah",
+          "branch_code": "4"
         }
       ]
     }
