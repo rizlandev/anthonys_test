@@ -4,7 +4,7 @@
 
       "bank_name": "Hatton National Bank PLC",
       "bank_code": "7083",
-      "brances": [
+      "branches": [
         {
           
           "branch_name": "Aluthkade",
@@ -26,7 +26,7 @@
    
       "bank_name": "Bank of Ceylon",
       "bank_code": "7010",
-      "brances": [
+      "branches": [
         {
          
           "branch_name": "City Office",
