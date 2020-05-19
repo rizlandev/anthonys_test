@@ -6,18 +6,15 @@
       "bank_name": "Hatton National Bank PLC",
       "bank_code": "7083",
       "branches": [
-        {
-          
+        {     
           "branch_name": "Aluthkade",
           "branch_code": "1"
         },
-        {
-          
+        {          
           "branch_name": "City Office",
           "branch_code": "2"
         },
-        {
-        
+        {        
           "branch_name": "Head Office",
           "branch_code": "3"
         }
@@ -28,23 +25,19 @@
       "bank_name": "Bank of Ceylon",
       "bank_code": "7010",
       "branches": [
-        {
-         
+        {         
           "branch_name": "City Office",
           "branch_code": "1"
         },
-        {
-       
+        {       
           "branch_name": "Kandy",
           "branch_code": "2"
         },
-        {
-          
+        {          
           "branch_name": "Galle Fort",
           "branch_code": "3"
         },
-        {
-         
+        {         
           "branch_name": "Pettah",
           "branch_code": "4"
         }
