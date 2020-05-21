@@ -1,0 +1,40 @@
+{
+  "result": "true",
+  "credit_notes": [
+    {
+      "out_id": 4273,
+      "out_name": "ANUSHA - MALABE",
+      "out_address": "A",
+      "notes": [
+        {
+          "n_date": "2020-02-19",
+          "n_code": "AN/CRN/141/000001",
+          "total": "5300.00",
+          "paid": "0.00",
+          "balance": "5300.00"
+        },
+        {
+          "n_date": "2020-02-18",
+          "n_code": "AN/CRN/141/000002",
+          "total": "1000.00",
+          "paid": "450.00",
+          "balance": "550.00"
+        }
+      ]
+    },
+    {
+      "out_id": 4110,
+      "out_name": " APE KADE- MATHTHEGODA",
+      "out_address": "ADDRESS",
+      "notes": [
+        {
+          "n_date": "2020-02-25",
+          "n_code": "AN/CRN/141/000005",
+          "total": "3800.00",
+          "paid": "0.00",
+          "balance": "3800.00"
+        }
+      ]
+    }
+  ]
+}
