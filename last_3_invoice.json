@@ -49,7 +49,7 @@
           "inv_item_units": "10",
           "inv_total_value": "24510.00"
         }
-      ]
+      ],  "sales_ret_item": []
     },
     {
       "invoice_id": "ANT/INV/141/000003",
