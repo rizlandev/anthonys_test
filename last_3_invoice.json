@@ -2,6 +2,7 @@
   "result": "true",
   "invoice": [
     {
+      "out_id": 4273,
       "invoice_id": "ANT/INV/141/000001",
       "outlet_Name": "ANUSHA HOTEL",
       "outlet_address": "test address",
@@ -35,6 +36,7 @@
       ]
     },
     {
+      "out_id": 4273,
       "invoice_id": "ANT/INV/141/000002",
       "outlet_Name": "ANUSHA HOTEL",
       "outlet_address": "test address",
@@ -52,6 +54,7 @@
       ],  "sales_ret_item": []
     },
     {
+      "out_id": 4273,
       "invoice_id": "ANT/INV/141/000003",
       "outlet_Name": "ANUSHA HOTEL",
       "outlet_address": "test address",
