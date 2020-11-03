@@ -23,21 +23,6 @@
           "outstanding": "550.00"
         }
       ]
-    },
-    {
-      "out_id": 4110,
-      "out_name": "APE KADE- MATHTHEGODA",
-      "out_address": "ABC",
-      "invs": [
-        {
-          "i_date": "2020-02-22",
-          "i_time": "11:32:07",
-          "i_code": "ANT/INV/141/000006",
-          "invtot": "5000.00",
-          "payment": "1000.00",
-          "outstanding": "4000.00"
-        }
-      ]
     }
   ]
 }
