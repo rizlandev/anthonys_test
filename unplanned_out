@@ -1,0 +1,39 @@
+{
+  "result": true,
+  "outlets": [
+    {
+      "out_id": 4832,
+      "out_code": "36563",
+      "out_name": "Call Out 1",
+      "route_name": "Call Out 1 - RAMYASIRI",
+      "out_address": "1",
+      "out_category_id": 9,
+      "out_category_name": "SALES REPRASENTATIVE",
+      "lat": null,
+      "lon": null,
+      "image_url": "",
+      "phone_no": null,
+      "out_owner_details": "",
+      "out_billing_status": 2,
+      "credit_limit": "100000.00",
+      "last_visit_date": "2020-10-29"
+    },
+    {
+      "out_id": 4834,
+      "out_code": "36564",
+      "out_name": "Call Out 2",
+      "route_name": "Call Out 2 - RAMYASIRI",
+      "out_address": "1",
+      "out_category_id": 9,
+      "out_category_name": "SALES REPRASENTATIVE",
+      "lat": null,
+      "lon": null,
+      "image_url": "",
+      "phone_no": null,
+      "out_owner_details": "",
+      "out_billing_status": 2,
+      "credit_limit": "100000.00",
+      "last_visit_date": "2020-10-29"
+    }
+  ]
+}
