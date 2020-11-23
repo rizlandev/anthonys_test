@@ -1,25 +1,29 @@
 {
-    "result": "true",
-    "outlet_free": {
-        "outlet": [
+  "result": "true",
+  "outlet_free": {
+    "outlet": [
+      {
+        "freeIssues": [
+          [
             {
-                "freeIssues": [
-                    [
-                        {
-                            "free_issue_structure_id": "219"
-                        },
-                        {
-                            "free_issue_structure_id": "221"
-                        },
-                        {
-                            "free_issue_structure_id": "223"
-                        },
-                        {
-                            "free_issue_structure_id": "550"
-                        },
-                        {
-                            "free_issue_structure_id": "567"
-                        }
-                        ],
-                "out_id": "65682"
-                        ]}]}}
+              "free_issue_structure_id": "219"
+            },
+            {
+              "free_issue_structure_id": "221"
+            },
+            {
+              "free_issue_structure_id": "223"
+            },
+            {
+              "free_issue_structure_id": "550"
+            },
+            {
+              "free_issue_structure_id": "567"
+            }
+          ]
+        ],
+        "out_id": "65682"
+      }
+    ]
+  }
+}
