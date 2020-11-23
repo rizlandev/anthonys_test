@@ -1,0 +1,27 @@
+{
+  "result": "true",
+  "data": [
+    {
+      "hierarchy_id": "551",
+      "hierarchy_label": "ASF_strip10:1",
+      "pur_p_total_qty": "10",
+      "free_p_qty": "1",
+      "assortedItems": [
+        {
+          "p_id": "57"
+        },
+        {
+          "p_id": "59"
+        }
+      ],
+      "assortedFreeItems": [
+        {
+          "f_id": "57"
+        },
+        {
+          "f_id": "59"
+        }
+      ]
+    }
+  ]
+}
