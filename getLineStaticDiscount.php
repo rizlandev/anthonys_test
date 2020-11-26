@@ -16,16 +16,16 @@
         {
           "qty_lower": 3,
           "qty_upper": 4,
-          "dis_rupees":2,
+          "dis_rupees":2
         },
         {
           "qty_lower": 5,
           "qty_upper": 9,
-          "dis_rupees": 3,
+          "dis_rupees": 3
         }, {
           "qty_lower": 10,
           "qty_upper": 11,
-          "dis_rupees": 4,
+          "dis_rupees": 4
         }
       ]
     }
