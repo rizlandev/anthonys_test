@@ -1,0 +1,27 @@
+{
+  "result": "true",
+  "max_timestamp": "1575283152000",
+  "actual_cat_count": 4,
+  "category": [
+    {
+      "cat_id": 1,
+      "cat_code": "14",
+      "cat_name": "WHOLE CHICKEN (COOL)"
+    },
+    {
+      "cat_id": 2,
+      "cat_code": "16",
+      "cat_name": "WHOLE CHICKEN (FRESH)"
+    },
+    {
+      "cat_id": 3,
+      "cat_code": "18",
+      "cat_name": "WHOLE CHICKEN (S/L)"
+    },
+    {
+      "cat_id": 4,
+      "cat_code": "1074",
+      "cat_name": "PARTS"
+    }
+  ]
+}
