@@ -5,16 +5,14 @@
   "free_budget": [
     {
       "budget_items": [
-        [
-          {
-            "item_id": "396",
-            "item_qty": 10
-          },
-          {
-            "item_id": "397",
-            "item_qty": 12
-          }
-        ]
+        {
+          "item_id": "396",
+          "item_qty": 10
+        },
+        {
+          "item_id": "397",
+          "item_qty": 12
+        }
       ],
       "budget_id": "1",
       "budget_label": "Z-50g , Z-100g BUDGET PROPOSAL-1",
@@ -24,16 +22,14 @@
     },
     {
       "budget_items": [
-        [
-          {
-            "item_id": "384",
-            "item_qty": 15
-          },
-          {
-            "item_id": "387",
-            "item_qty": 20
-          }
-        ]
+        {
+          "item_id": "384",
+          "item_qty": 15
+        },
+        {
+          "item_id": "387",
+          "item_qty": 20
+        }
       ],
       "budget_id": "2",
       "budget_label": "WT-50g , WT-100g BUDGET PROPOSAL-2",
