@@ -1,7 +1,7 @@
 {
   "result": "true",
   "user_id": 134,
-  "server_time": 123445533,
+  "server_time": 1613446847,
   "free_budget": [
     {
       "budget_items": [
