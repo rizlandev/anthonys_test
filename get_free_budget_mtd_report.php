@@ -18,7 +18,7 @@
       "budget_label": "Z-50g , Z-100g BUDGET PROPOSAL-1",
       "budget_period": "2021/02/01 - 2021/02/28",
       "budget_allocated": 10000,
-      "budget_balance": 5000
+      "budget_balance": 9500
     },
     {
       "budget_items": [
@@ -35,7 +35,7 @@
       "budget_label": "WT-50g , WT-100g BUDGET PROPOSAL-2",
       "budget_period": "2021/02/01 - 2021/02/28",
       "budget_allocated": 15000,
-      "budget_balance": 10000
+      "budget_balance": 14800
     }
   ]
 }
